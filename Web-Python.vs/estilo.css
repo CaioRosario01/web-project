@@ -1,0 +1,52 @@
+
+*{
+  margin:0;
+  padding: 0;
+  box-sizing:border-box;
+}
+
+
+body {
+  background-color: #df9745;
+  font-family: Arial, sans-serif;
+}
+
+p {
+  color: rgb(0, 0, 0);
+  text-align: left;
+  font-size: 20px;
+
+}
+
+section{
+  margin-bottom:50px;
+}
+
+
+.chimbaltext{
+  text-align: left;
+  margin-left: 0;
+  padding-left:0;
+  font-size:18px;
+}
+
+.imagem-bateria{
+    width: 250px;
+  border: 3px solid rgb(102, 70, 1);
+}
+
+.caixa-bateria{
+    width: 150px;
+  border: 3px solid rgb(102, 70, 1);
+}
+
+.bumbo-bateria{
+  width: 150px;
+  border: 3px solid rgb(102, 70, 1);
+}
+
+
+.galeria img{
+  margin-right: 189px;
+
+}

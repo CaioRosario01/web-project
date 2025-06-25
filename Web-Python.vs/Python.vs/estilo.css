@@ -1,0 +1,19 @@
+body {
+  background-color: #df9745;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+
+}
+
+p {
+  color: #f5f3f3;
+}
+
+.imagem-bateria{
+    width: 300px;
+  border: 3px solid rgb(255, 255, 255);
+}
